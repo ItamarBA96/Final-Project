@@ -7,7 +7,8 @@ For Tel Aviv University course - R for beginners
 
 •	קובץ הקוד המלא - Final_Project.R
 
-•	קובץ זיפ המכיל בתוכו את קובץ הקוד בנוסף לקובץ הנתונים - R Final Project Itamar Ben Arie.zip
+•	קובץ זיפ המכיל בתוכו את קובץ הקוד בנוסף לקובץ הנתונים - R Final Project Itamar Ben Arie.zip.
+מכיל את: Final_Project.R + Emotions - Final Project.csv
 
 ### על מנת להריץ את הקוד יש לחלץ את הקבצים מתיקיית הזיפ.
 
