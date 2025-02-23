@@ -15,4 +15,5 @@ https://www.kaggle.com/datasets/nelgiriyewithana/emotions/data
 
 •	Final_Project.R – קובץ הקוד המלא.
 
-•	R Final Project Itamar Ben Arie.zip – קובץ זיפ המכיל בתוכו את קובץ הקוד בנוסף לקובץ הנתונים 'Emotions - Final Project.csv'. על מנת להריץ את הקוד יש לחלץ את הקבצים מתיקיית הזיפ.
+•	R Final Project Itamar Ben Arie.zip – קובץ זיפ המכיל בתוכו את קובץ הקוד בנוסף לקובץ הנתונים 'Emotions - Final Project.csv'.
+על מנת להריץ את הקוד יש לחלץ את הקבצים מתיקיית הזיפ.
