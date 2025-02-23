@@ -14,8 +14,7 @@ For Tel Aviv University course - R for beginners
 
 חשוב לוודא שהקובץ Emotions - Final Project.csv נמצא באותה תיקייה עם Final_Project.R.
 
-
-
+## תיאור:
 במחקר לקראת התזה שלי אני עוסק בניתוח טקסטים קיצוניים פוליטית וחברתית. לכן, במטרה להתנסות בכך, חיפשתי דאטה רלוונטי לניתוח טקסטים במסגרת מאגרי המידע שהצעתם. מצאתי את הנתונים האלו, הכוללים אך ורק ציוצים (text) וסיווג רגשות קטגוריאלי (label):
 
 https://www.kaggle.com/datasets/nelgiriyewithana/emotions/data
