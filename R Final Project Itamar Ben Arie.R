@@ -51,6 +51,7 @@ library(tidyverse)  # Data wrangling & visualization
 library(ggplot2)    # Data visualization
 library(dplyr)      # Data manipulation
 library(tidytext)   # Text processing; New package
+library(textdata)   # Preloaded text datasets; New package
 library(ggdist)     # Exploratory visualization
 library(pROC)       # ROC Curve for logistic regression
 
